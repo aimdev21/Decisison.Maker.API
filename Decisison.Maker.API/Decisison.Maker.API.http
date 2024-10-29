@@ -1,0 +1,6 @@
+@Decisison.Maker.API_HostAddress = http://localhost:5159
+
+GET {{Decisison.Maker.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
